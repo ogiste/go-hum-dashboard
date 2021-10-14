@@ -1,0 +1,7 @@
+{
+  "name": "go-hum-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
